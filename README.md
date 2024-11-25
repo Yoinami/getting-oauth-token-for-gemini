@@ -17,10 +17,10 @@ You can read more about this OAuth Authenication process here https://developers
 
 ## Prerequisites
 
-List the tools, libraries, and versions required to run the code.
+List of tools, libraries, and versions required to run the code.
 
 - Python 3.x
-- Required libraries: `example-library`, `another-library`
+- Required libraries: `google-auth`, `google-auth-oauthlib`, `google-generative-ai`
 
 ---
 
